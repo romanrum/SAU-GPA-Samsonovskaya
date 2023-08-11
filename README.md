@@ -6,4 +6,4 @@ The project contains:
  - Algorithms of the working states of the GPA in the Visio format
  - Functional scheme
  - Database of signals and alarms, .mdb format
- - Folder with the necessary libraries to compile the Codesys project
+ - Necessary libraries to compile the Codesys project
